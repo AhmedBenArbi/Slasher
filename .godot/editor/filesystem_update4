@@ -1,0 +1,6 @@
+res://Scenes/World/world.tscn
+res://Tileset/MainTileMapLayer/World_tile_set.tres
+res://Scenes/Player/player.tscn
+res://Scenes/Enemie/Blue_Gloam.tscn
+res://Scripts/Enemie/Blue_Gloam.gd
+res://Scripts/Player/player.gd
